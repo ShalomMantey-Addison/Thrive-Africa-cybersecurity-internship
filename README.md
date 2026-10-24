@@ -108,22 +108,6 @@ Activities included:
 
 ---
 
-## Tools & Technologies
-
-The internship has provided practical exposure to tools and technologies including:
-
-| Category                 | Tools / Technologies     |
-| ------------------------ | ------------------------ |
-| Network Scanning         | Nmap, Netdiscover        |
-| Vulnerability Assessment | Nessus                   |
-| Web Security             | OWASP ZAP, Nikto         |
-| Reconnaissance           | WHOIS, DNS tools         |
-| Virtualization           | Virtual Machines         |
-| Operating Systems        | Kali Linux, Windows      |
-| Documentation            | Microsoft Word, Excel    |
-| Threat Modeling          | STRIDE, Network Diagrams |
-
-
 
 ## Week 05 — Security Governance & Policy Development
 
@@ -173,6 +157,29 @@ The internship has provided practical exposure to tools and technologies includi
 
 
 ---
+
+## Tools & Technologies
+
+The internship has provided practical exposure to cybersecurity tools, technologies, and methodologies across network reconnaissance, vulnerability assessment, risk management, security governance, and incident response.
+
+| Category                       | Tools / Technologies                                                           |
+| ------------------------------ | ------------------------------------------------------------------------------ |
+| Network Scanning & Enumeration | Nmap, Netdiscover                                                              |
+| Vulnerability Assessment       | Nessus, Nmap                                                                   |
+| Web Security Testing           | OWASP ZAP, Nikto                                                               |
+| Reconnaissance                 | WHOIS, DNS tools                                                               |
+| SIEM & Security Monitoring     | Wazuh                                                                          |
+| Virtualization                 | Virtual Machines                                                               |
+| Operating Systems              | Kali Linux, Windows                                                            |
+| Threat Modeling                | STRIDE, Network Diagrams                                                       |
+| Risk Management                | Risk Registers, Risk Assessment Matrices                                       |
+| Security Governance            | Information Security Policies, Security Roles and Responsibilities             |
+| Incident Response              | Incident Response Playbooks, Incident Classification and Escalation Procedures |
+| Documentation & Reporting      | Microsoft Word, Microsoft Excel                                                |
+
+
+
+
 
 ## Skills Developed
 
