@@ -123,25 +123,74 @@ The internship has provided practical exposure to tools and technologies includi
 | Documentation            | Microsoft Word, Excel    |
 | Threat Modeling          | STRIDE, Network Diagrams |
 
+
+
+## Week 05 — Security Governance & Policy Development
+
+**Focus:** Understanding security governance, information security responsibilities, and the development of organizational security policies.
+
+### Activities
+
+* Identified key information security roles and responsibilities.
+* Examined the responsibilities of information owners, custodians, users, and administrators.
+* Explored the importance of information security policies in protecting organizational assets.
+* Reviewed essential components of an Information Security Policy.
+* Examined security responsibilities and accountability within an organization.
+* Developed an Information Security Policy tailored to the organizational scenario.
+
+### Key Deliverables
+
+* Information Security Policy
+* Information Security Roles and Responsibilities
+* Security Governance Documentation
+
+## Week 06 — Incident Response & Security Operations
+
+**Focus:** Understanding security incident management, incident response procedures, and security monitoring using a Security Information and Event Management (SIEM) platform.
+
+### Activities
+
+* Examined common security incidents, including malware infections, unauthorized access, and data breaches.
+* Developed incident classification and severity levels.
+* Documented incident identification, reporting, escalation, and response procedures.
+* Outlined incident containment, eradication, recovery, and post-incident review activities.
+* Explored security event monitoring using Wazuh SIEM.
+* Set up a Wazuh monitoring environment and connected an endpoint agent.
+* Explored security alerts, event logs, and monitoring capabilities available through the Wazuh dashboard.
+
+### Tools Used
+
+* Wazuh SIEM
+* Windows endpoint
+* Wazuh agent
+
+### Key Deliverables
+
+* Incident Response Playbook
+* Incident Classification and Escalation Procedures
+* Wazuh SIEM Lab Documentation
+* Screenshots documenting the lab setup and dashboard
+
+
 ---
 
 ## Skills Developed
 
-Through the internship, I have developed practical experience in:
+Through the Thrive Africa cybersecurity internship, I have developed practical knowledge and experience in the following areas:
 
-* Threat modeling
-* Asset identification and classification
-* Network reconnaissance
-* Network enumeration
-* Port and service identification
-* Vulnerability assessment
-* CVE research
-* Risk analysis
-* Risk prioritization
-* Security mitigation
-* Web security testing
-* Technical documentation
-* Cybersecurity reporting
+* **Threat Modeling:** Identifying potential threats, attack surfaces, and security weaknesses.
+* **Asset Management:** Identifying, classifying, and documenting critical organizational assets.
+* **Network Reconnaissance & Enumeration:** Discovering hosts, scanning ports, and identifying network services.
+* **Vulnerability Assessment:** Using security tools to investigate potential vulnerabilities and exposed services.
+* **CVE Research:** Researching known vulnerabilities and analyzing their potential security implications.
+* **Cybersecurity Risk Analysis:** Evaluating risk likelihood, potential impact, and severity.
+* **Risk Prioritization & Mitigation:** Prioritizing identified risks and recommending appropriate remediation measures.
+* **Web Application Security Testing:** Exploring web security assessment techniques using tools such as Nikto and OWASP ZAP.
+* **Security Governance & Policy Development:** Understanding information security responsibilities and developing organizational security policies.
+* **Incident Response Planning:** Documenting incident identification, classification, escalation, containment, eradication, and recovery procedures.
+* **SIEM & Security Monitoring:** Exploring security event monitoring, alerts, and log analysis using Wazuh.
+* **Technical Documentation & Reporting:** Preparing threat models, risk registers, security policies, assessment reports, and incident response documentation.
+
 
 ---
 
@@ -158,8 +207,13 @@ thrive-africa-cybersecurity-internship/
 │
 ├── Week-04-Risk-Analysis/
 │
+├── Week-05-Security-Governance-and-Policy/
+│
+├── Week-06-Incident-Response-and-Security-Operations/
+│
 └── Screenshots/
 ```
+
 
 > Additional weekly folders and deliverables will be added as the internship progresses.
 
@@ -168,8 +222,6 @@ thrive-africa-cybersecurity-internship/
 ## Disclaimer
 
 All security testing documented in this repository was conducted within **authorized internship and laboratory environments** for educational and cybersecurity training purposes.
-
-The techniques and tools documented here should only be used against systems for which proper authorization has been obtained.
 
 ---
 
