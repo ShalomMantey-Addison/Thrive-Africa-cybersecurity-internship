@@ -102,7 +102,7 @@ Activities included:
 * Creating a risk register.
 
 
-## Week 05 — Security Governance & Policy Development
+### Week 05 — Security Governance & Policy Development
 
 **Focus:** Understanding security governance, information security responsibilities, and the development of organizational security policies.
 
@@ -121,7 +121,7 @@ Activities included:
 * Information Security Roles and Responsibilities
 * Security Governance Documentation
 
-## Week 06 — Incident Response & Security Operations
+### Week 06 — Incident Response & Security Operations
 
 **Focus:** Understanding security incident management, incident response procedures, and security monitoring using a Security Information and Event Management (SIEM) platform.
 
@@ -148,7 +148,7 @@ Activities included:
 * Wazuh SIEM Lab Documentation
 * Screenshots documenting the lab setup and dashboard
 
-## Week 07 — OSINT & Threat Intelligence
+### Week 07 — OSINT & Threat Intelligence
 
 **Focus:** Applying Open-Source Intelligence (OSINT) techniques to gather, investigate, and analyze publicly available information about an organization to identify potential security risks and exposure.
 
@@ -180,7 +180,7 @@ Activities included:
 
 **Note:** The investigation focused on publicly available information and authorized OSINT techniques. No unauthorized access, exploitation, or intrusive testing was performed.
 
-## Week 08 — Final Security Assessment & Demo Day Preparation
+### Week 08 — Final Security Assessment & Demo Day Preparation
 
 **Focus:** Consolidating the cybersecurity activities and findings from Weeks 01–07 into a comprehensive final security assessment and preparing for the internship project presentation.
 
