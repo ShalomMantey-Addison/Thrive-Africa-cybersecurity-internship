@@ -155,7 +155,81 @@ Activities included:
 * Wazuh SIEM Lab Documentation
 * Screenshots documenting the lab setup and dashboard
 
+---
 
+## Week 07 — OSINT & Threat Intelligence
+
+**Focus:** Applying Open-Source Intelligence (OSINT) techniques to gather, investigate, and analyze publicly available information about an organization to identify potential security risks and exposure.
+
+**Activities:**
+
+- Conducted open-source intelligence research on Thrive Africa using publicly available information.
+- Investigated publicly accessible organizational information and digital footprints.
+- Explored publicly available employee and organizational information.
+- Examined publicly accessible infrastructure-related information.
+- Identified potential information exposure and social engineering opportunities.
+- Analyzed how threat actors could potentially use publicly available information to target an organization.
+- Categorized intelligence findings according to their potential security implications.
+- Developed recommendations to reduce information exposure and improve organizational security.
+
+**Tools & Techniques Used:**
+
+- Maltego
+- Google Search and Google Dorking
+- LinkedIn and other publicly accessible social media platforms
+- WHOIS
+- DNS reconnaissance tools
+
+**Key Deliverables:**
+
+- OSINT Investigation Report
+- Categorized Intelligence Findings
+- OSINT Risk Analysis
+- Security Recommendations
+
+**Note:** The investigation focused on publicly available information and authorized OSINT techniques. No unauthorized access, exploitation, or intrusive testing was performed.
+
+---
+
+## Week 08 — Final Security Assessment & Demo Day Preparation
+
+**Focus:** Consolidating the cybersecurity activities and findings from Weeks 01–07 into a comprehensive final security assessment and preparing for the internship project presentation.
+
+**Activities:**
+
+- Reviewed and consolidated the deliverables from the previous seven weeks.
+- Evaluated the organization's security posture based on the assessments conducted.
+- Summarized key cybersecurity findings and identified significant security risks.
+- Prioritized critical findings based on their potential impact.
+- Developed security recommendations and mitigation strategies.
+- Prepared a comprehensive final security assessment report.
+- Created presentation slides highlighting the internship activities, methodologies, findings, and recommendations.
+- Organized presentation content and assigned speaking responsibilities among team members.
+- Prepared for the final project demonstration and presentation.
+
+**Key Deliverables:**
+
+- Final Security Assessment Report
+- Executive Summary of Weeks 01–07
+- Summary of Key Security Findings
+- Prioritized Risk Assessment
+- Recommended Security Mitigations
+- Overall Security Posture Assessment
+- Demo Day Presentation Slides
+
+**Final Report Components:**
+
+- Executive Summary
+- Organizational Overview
+- Summary of Weekly Activities
+- Key Security Findings
+- Identified Risks and Their Potential Impact
+- Recommended Mitigation Measures
+- Overall Security Posture
+- Conclusion and Recommendations
+
+**Presentation:** 
+A 10–15-minute presentation showcasing the internship activities, technical work, key findings, and recommendations.
 ---
 
 ## Tools & Technologies
