@@ -47,7 +47,6 @@ Activities included:
 * Network Diagram
 * Threat Model
 
----
 
 ### Week 02 — Reconnaissance & Network Enumeration
 
@@ -69,8 +68,6 @@ Activities included:
 * WHOIS
 * DNS reconnaissance tools
 
----
-
 ### Week 03 — Vulnerability Assessment
 
 **Focus:** Identifying and evaluating vulnerabilities discovered within the laboratory environment.
@@ -91,8 +88,6 @@ Activities included:
 * OWASP ZAP
 * Nmap
 
----
-
 ### Week 04 — Risk Analysis & Prioritization
 
 **Focus:** Analyzing identified vulnerabilities and determining their associated cybersecurity risks.
@@ -105,8 +100,6 @@ Activities included:
 * Prioritizing security risks.
 * Developing mitigation and remediation recommendations.
 * Creating a risk register.
-
----
 
 
 ## Week 05 — Security Governance & Policy Development
@@ -155,8 +148,6 @@ Activities included:
 * Wazuh SIEM Lab Documentation
 * Screenshots documenting the lab setup and dashboard
 
----
-
 ## Week 07 — OSINT & Threat Intelligence
 
 **Focus:** Applying Open-Source Intelligence (OSINT) techniques to gather, investigate, and analyze publicly available information about an organization to identify potential security risks and exposure.
@@ -188,8 +179,6 @@ Activities included:
 - Security Recommendations
 
 **Note:** The investigation focused on publicly available information and authorized OSINT techniques. No unauthorized access, exploitation, or intrusive testing was performed.
-
----
 
 ## Week 08 — Final Security Assessment & Demo Day Preparation
 
@@ -292,11 +281,12 @@ thrive-africa-cybersecurity-internship/
 │
 ├── Week-06-Incident-Response-and-Security-Operations/
 │
+├── Week-07-OSINT-and-Threat-Intelligence/
+│
+├── Week-08-Final-Security-Assessment-and-Demo-Day/
+│
 └── Screenshots/
 ```
-
-
-> Additional weekly folders and deliverables will be added as the internship progresses.
 
 ---
 
@@ -308,6 +298,4 @@ All security testing documented in this repository was conducted within **author
 
 ## Internship Status
 
-**Status:** Ongoing
-
-This repository will continue to be updated with additional projects, assessments, findings, and deliverables throughout the internship.
+**Status:** Completed
